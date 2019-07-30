@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313__340.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.pixabay.com/photo/2016/10/31/14/55/rottweiler-1785760__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.pixabay.com/photo/2015/03/26/09/54/pug-690566__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.pixabay.com/photo/2016/02/18/18/37/puppy-1207816__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://cdn.pixabay.com/photo/2016/03/27/21/16/animal-1284307__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/23/13/adorable-1851106__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://cdn.pixabay.com/photo/2019/02/06/15/18/puppy-3979350__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://cdn.pixabay.com/photo/2016/11/01/23/38/beach-1790049__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://cdn.pixabay.com/photo/2014/03/05/19/23/dog-280332__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://cdn.pixabay.com/photo/2015/11/17/13/13/dogue-de-bordeaux-1047520__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://cdn.pixabay.com/photo/2017/03/30/03/15/dog-2187074__480.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://cdn.pixabay.com/photo/2010/12/13/10/20/beagle-puppy-2681__480.jpg",
+    "clicked": false
+  }
+]
